@@ -6,5 +6,9 @@
 		{
 			"path": "Html5"
 		}
-	]
+	],
+	"settings": {
+		"files.autoSave": "afterDelay",
+		"editor.tabCompletion": "on"
+	}
 }
